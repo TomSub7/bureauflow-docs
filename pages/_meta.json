@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index": "Willkommen",
+  "erste-schritte": "Erste Schritte",
+  "einrichtung": "Einrichtung",
+  "---": {
+    "type": "separator"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Kontakt ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:info@bureauflow.de",
     "newWindow": true
   }
 }
